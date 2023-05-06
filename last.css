@@ -1,0 +1,27 @@
+.header ul
+{background-color: rgba(146, 129, 64, 0.883);text-align: center; padding-top: 20px;padding-bottom: 20px;text-decoration: none;}
+.header li { display: inline-block; text-align: center; height: auto; width: 150px;color:#333333;background-color: #f5f5f5;padding:
+     10px;margin: 4px;text-align: center;font-size: 18px;font-weight: bold;text-decoration: none;border-radius: 4px;}
+.header li a :hover{background-color: beige;}
+.area {overflow: auto; text-align: center;padding-top: 20px;padding-bottom: 20px;font-family: calibri;}
+.name { overflow: auto;text-align: center;background-color: rgb(237, 228, 181);}
+.photos{ overflow: auto;text-align: center}
+#________
+
+.menu{overflow: auto;text-align: center ;font-size: medium; font-family: Tahoma;}
+.menu h2 {background-color:rgb(237, 228, 181);margin-left: auto;margin-right: auto
+    ;margin-top: 40px;width: 200px;padding: 10px;border-radius: 30px;}
+.main{font-size: "50%"; font-family: Tahoma;background-color:rgb(237, 228, 181);margin-left: auto
+    ;margin-top: 40px;width: 200px;padding: 10px;border-radius: 30px; }
+.lama h2{background-color: rgb(237, 228, 181)
+    ;margin-top: 40px;width: 200px;padding: 10px;border-radius: 30px;}
+.vidio {overflow: auto;text-align: center}
+.tala {background-color:rgb(237, 228, 181);margin-left: auto
+    ;margin-top: 40px;width: 200px;padding: 10px;border-radius: 30px;}
+.lama1{font-size: medium;font-family: Tahoma;}
+.lama2{background-color:rgb(237, 228, 181);margin-left: auto
+    ;margin-top: 40px;width: 200px;padding: 10px;border-radius: 30px;}
+.lama3{ overflow: auto;text-align: center}
+.end {background-color: rgba(146, 129, 64, 0.883);text-align: center; padding-top: 20px;padding-bottom: 20px;text-decoration: none;}
+.end h2 {display: inline-block; text-align: center; height: auto; width: 150px;color:#333333;background-color: #f5f5f5;padding:
+    10px;margin: 4px;text-align: center;font-size: 18px;font-weight: bold;text-decoration: none;border-radius: 4px;}
